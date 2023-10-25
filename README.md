@@ -33,7 +33,7 @@ The reason for this project is to have an extensive and comprehensive view of th
 I obtained the data by downloading the csv file from my drive and then imported and converted into an excel file. The data is a sample data of The US superstore.
 After the conversion, I cleaned the data, performed my analysis and created visualizations to help answer my questions.
 
-##Data Transformation and cleaning
+## Data Transformation and cleaning
 The US superstore dataset did not really require much cleaning, I checked for spelling error and found none except for local cities or names that weren`t registered in the dictionary. Since they were not errors, I had to ignore it.  I also searched for duplicates, but found none and so after formatting the headers and making my data neat, I proceeded to the next step.
 
 
