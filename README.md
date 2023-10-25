@@ -40,8 +40,11 @@ The US superstore dataset did not really require much cleaning, I checked for sp
 ## Analysis and visualization
 I analyzed the data step by step according to the question and aim of my analysis. The visuals I created were very easy-to-understand. I used the colors: blue, green, red, Faded-blue, which all meant different things at different points. 
 All seven visuals passed different messages all related to the analysis.
-we saw the following in the visuals:
+Some of the information represented in the visuals are:
 - sum total of products over the years
 - Total number of ships per shipping mode
-- 
+- Highest contributing  segment to profit
+- Average processing time for each category
+
+*In the first visual, which is a reponse to the questionse
 
