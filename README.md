@@ -1,5 +1,6 @@
 # Optimization-of-customer-service
 
+![optim main](https://github.com/user-attachments/assets/97b80ff1-3d06-4931-acde-b5498483aedd)
 
 ## Overview
 
